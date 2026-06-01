@@ -22,7 +22,7 @@
 
 ### Open source sample
 
-**[SSEAIStreamingSample](https://github.com/Oleksandr19942/SSEAIStreamingSample)** — public Swift package demonstrating **SSE streaming** and **delta parsing** for AI chat UIs (sanitized patterns from production work, with tests).
+**[SSEAIStreamingSample](https://github.com/Oleksandr19942/SSEAIStreamingSample)** — public Swift package with **production AI chat patterns**: SSE accumulator, JSON streaming preview, rate-limit retry, and **multi-turn tool-calling loop** (tested, MIT).
 
 ---
 
