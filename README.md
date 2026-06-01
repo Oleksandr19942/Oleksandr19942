@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.jpg" alt="2ndOpinions — AI Health Companion for iOS" width="100%" />
+
 # Hi, I'm Oleksandr Meteliev
 
 **iOS Engineer** · AI health products · real-time systems · App Store delivery
@@ -12,9 +14,15 @@
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 [![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-Responses_API-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/products/ai-services/openai-service)
 
-[LinkedIn](https://www.linkedin.com/in/oleksandr-meteliev-b2ab46209/) · [Case study](https://www.startupsoft.com/cases/2nd-opinion/)
+[LinkedIn](https://www.linkedin.com/in/oleksandr-meteliev-b2ab46209/) · [Case study](https://www.startupsoft.com/cases/2nd-opinion/) · [Open source sample](https://github.com/Oleksandr19942/SSEAIStreamingSample)
 
 </div>
+
+---
+
+### Open source sample
+
+**[SSEAIStreamingSample](https://github.com/Oleksandr19942/SSEAIStreamingSample)** — public Swift package demonstrating **SSE streaming** and **delta parsing** for AI chat UIs (sanitized patterns from production work, with tests).
 
 ---
 
