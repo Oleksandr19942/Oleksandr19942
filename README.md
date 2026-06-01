@@ -22,7 +22,7 @@
 
 ### Open source sample
 
-**[SSEAIStreamingSample](https://github.com/Oleksandr19942/SSEAIStreamingSample)** — public Swift package with **production AI chat patterns**: SSE accumulator, JSON streaming preview, rate-limit retry, and **multi-turn tool-calling loop** (tested, MIT).
+**[SSEAIStreamingSample](https://github.com/Oleksandr19942/SSEAIStreamingSample)** — public Swift package with **production patterns**: SSE streaming + tool loop, **Apple Health → AI tools** (7 function tools), and **medical upload orphan recovery** (tested, MIT).
 
 ---
 
